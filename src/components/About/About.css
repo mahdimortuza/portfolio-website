@@ -1,0 +1,23 @@
+.react-txt{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+}
+.react-des{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 12px;
+}
+
+.intro{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 12px;
+    color: rgb(194, 194, 194);
+}
+
+.greeting{
+    font-family: 'Raleway', sans-serif;
+}
+
+.des{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 13px;
+}
